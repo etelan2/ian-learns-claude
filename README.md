@@ -12,7 +12,10 @@ Because it's fun and because software is where the money's at.
 
 ## What I'm building
 
-An AI companion for gaming and coding — like Grok but mine.
+**R6 Analyst** — a web app that tracks enemy behavior in Rainbow 6 Siege and finds patterns to predict what they'll do next.
+
+Live: https://ian-learns-claude.onrender.com  
+GitHub: https://github.com/etelan2/ian-learns-claude
 
 ## Sessions
 
@@ -20,9 +23,9 @@ An AI companion for gaming and coding — like Grok but mine.
 |---|-------|--------|
 | 1 | Hello Claude | ✅ Done |
 | 2 | GitHub + git | ✅ Done |
-| 3 | First real project | ⏳ Up next |
-| 4 | Debugging | |
-| 5 | APIs + data | |
-| 6 | Deploy | |
-| 7 | Context engineering | |
-| 8 | Capstone demo | |
+| 3 | First real project | ✅ Done |
+| 4 | Debugging | ✅ Done |
+| 5 | APIs + data | ✅ Done |
+| 6 | Deploy | ✅ Done |
+| 7 | Context engineering | ✅ Done |
+| 8 | Capstone demo | 🔥 Today |
