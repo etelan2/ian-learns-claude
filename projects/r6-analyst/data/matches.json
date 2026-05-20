@@ -1,11 +1,20 @@
 [
   {
-    "map": "Derelict",
-    "enemy": "jeorge",
-    "floor": "1",
-    "position": "in room near wall in corner area ",
-    "weapon": "spas12(fast firing hight recoil manual shotgun with medium to low range)",
+    "map": "derelict round1",
+    "enemy": "JohnnyBob",
+    "floor": "first",
+    "position": "In cornerwall behind deploable shield",
+    "weapon": "Spas12",
     "playstyle": "camp-room",
     "breakable_wall": true
+  },
+  {
+    "map": "derelict round1",
+    "enemy": "Qui gon jinnn",
+    "floor": "first",
+    "position": "Camping on the other side of johnnybob",
+    "weapon": "Ak12",
+    "playstyle": "camp-other",
+    "breakable_wall": false
   }
 ]
