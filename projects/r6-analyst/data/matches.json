@@ -1,0 +1,11 @@
+[
+  {
+    "map": "Derelict",
+    "enemy": "jeorge",
+    "floor": "1",
+    "position": "in room near wall in corner area ",
+    "weapon": "spas12(fast firing hight recoil manual shotgun with medium to low range)",
+    "playstyle": "camp-room",
+    "breakable_wall": true
+  }
+]
